@@ -1,0 +1,18 @@
+{
+    "server": {
+        "ip": "127.0.0.1",
+        "port": "12345",
+
+        "beta":  {
+            "ip": "127.0.0.1",
+            "port": "12345"
+        }
+    },
+
+    "maintenance": {
+        "now": true,
+        "message": "The server is in maintenance right now, come back later."
+    },
+    
+    "meta": "localhost"
+}
